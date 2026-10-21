@@ -1,6 +1,6 @@
 <a href="https://stepaudiollm.github.io/step-audio-3-music/"><img src="assets/banner.svg" width="100%" alt="Boyang Wang — Music × Audio × AI. Explore selected research and contributions." /></a>
 
-I work on **music and audio foundation models**, connecting model training, large-scale music data, controllable generation, and music understanding. I'm an M.S. Data Science student at **UC San Diego**, graduating in December 2026 and available for full-time roles in January 2027.
+I work on **music and audio foundation models**, connecting model training, large-scale music data, controllable generation, and music understanding. I'm an M.S. Data Science student at **UC San Diego**, graduating in December 2026.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/boyang-wang-199142268/)
 [![Email](https://img.shields.io/badge/Email-Get_in_touch-7C3AED?style=for-the-badge)](mailto:wangby76@gmail.com)
