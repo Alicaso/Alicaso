@@ -32,7 +32,7 @@ I'm also working on a multimodal music understanding model that connects audio a
 
 ### SymSkill · Skill graphs for symbolic music understanding
 
-**Co-author · ISMIR 2026.** Co-developed a system that distills music curricula into a skill graph of reusable analytical protocols. Evaluated on three benchmarks, with Qwen3.5-4B improvements of **4.76** and **3.27 percentage points** over the strongest baselines on CSyMR and MusicTheoryBench, respectively.
+**Second author · ISMIR 2026.** Co-developed a system that distills music curricula into a skill graph of reusable analytical protocols. Evaluated on three benchmarks, with Qwen3.5-4B improvements of **4.76** and **3.27 percentage points** over the strongest baselines on CSyMR and MusicTheoryBench, respectively.
 
 [![Publication](https://img.shields.io/badge/PUBLICATION-ISMIR_2026-A855F7?style=for-the-badge)](https://ismir2026.ismir.net/accepted-papers)
 
