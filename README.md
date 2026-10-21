@@ -18,7 +18,9 @@ I'm currently working on a multimodal music understanding model, bringing togeth
 
 ### HMU-Bench · Hierarchical music understanding
 
-**Co-first author.** Co-developed a hierarchical benchmark for general music understanding. Extended MARBLE-style linear-probe infrastructure to evaluate musical information preserved in audio tokenizer representations.
+**Co-first author.** Co-developed a bilingual, open-ended benchmark for evaluating omni models on both symbolic notation and audio. HMU-Bench includes **1,029 Chinese–English ABC question pairs** across six musical domains and 38 task types, plus **460 audio question pairs** over 92 recordings. Its hierarchical labels distinguish extraction from single- and multi-step inference for notation, and global/local scope and difficulty for audio.
+
+The benchmark combines evidence-grounded question construction with human review and reference-based evaluation. Results across **seven omni models** reveal substantial gaps in audio music understanding and little agreement between notation and audio rankings, while symbolic-output case studies expose octave errors that LLM grading can miss.
 
 [![Paper](https://img.shields.io/badge/PAPER-HMU--Bench-06B6D4?style=for-the-badge)](https://arxiv.org/abs/2610.15773)
 
