@@ -9,7 +9,9 @@ I work on **music and audio foundation models**, connecting model training, larg
 
 ### StepAudio 3 Music · Controllable music generation
 
-**My contribution:** Designed music Chain-of-Thought data and ABC notation-based symbolic conditioning for controllable generation, including music-to-ABC and ABC-to-music tasks and structured representations of melody, harmony, rhythm, and form.
+**My contribution:** Contributed to the design of music Chain-of-Thought (CoT) data and ABC notation-based symbolic conditioning for controllable generation, including music-to-ABC and ABC-to-music tasks. Built data pipelines for large-scale production and validation of music CoT data, with structured representations of melody, harmony, rhythm, and form.
+
+I'm currently training a multimodal music understanding model through full-parameter fine-tuning with Megatron, bringing together full-song transcription, fine-grained MIR annotation, audio and symbolic music understanding, and music-theory question answering through custom multi-task training mixtures.
 
 [![Explore & Listen](https://img.shields.io/badge/EXPLORE_%26_LISTEN-StepAudio_3_Music-F43F5E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
 [![Technical Report](https://img.shields.io/badge/READ-Technical_Report-8B5CF6?style=for-the-badge)](https://arxiv.org/abs/2609.16034)
