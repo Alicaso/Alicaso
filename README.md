@@ -11,7 +11,7 @@ I work on **music and audio foundation models**, connecting model training, larg
 
 **My contribution:** Contributed to the design of music Chain-of-Thought (CoT) data and ABC notation-based symbolic conditioning for controllable generation, including music-to-ABC and ABC-to-music tasks. Built data pipelines for large-scale production and validation of music CoT data, with structured representations of melody, harmony, rhythm, and form.
 
-I'm also working on a multimodal music understanding model that connects audio and symbolic music, with capabilities spanning full-song transcription, fine-grained music analysis, and music-theory question answering.
+I'm currently working on a multimodal music understanding model, bringing together full-song transcription, fine-grained MIR annotation, audio and symbolic music understanding, and music-theory question answering through custom multi-task training mixtures.
 
 [![Explore & Listen](https://img.shields.io/badge/EXPLORE_%26_LISTEN-StepAudio_3_Music-F43F5E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
 [![Technical Report](https://img.shields.io/badge/READ-Technical_Report-8B5CF6?style=for-the-badge)](https://arxiv.org/abs/2609.16034)
