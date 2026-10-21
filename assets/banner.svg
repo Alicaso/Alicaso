@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Boyang Wang — Music, Audio, AI">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14132f"/><stop offset=".6" stop-color="#292057"/><stop offset="1" stop-color="#123e55"/></linearGradient><linearGradient id="accent"><stop stop-color="#fb7185"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+<circle cx="1060" cy="60" r="150" fill="#c084fc" opacity=".07"/>
+<g stroke="url(#accent)" stroke-width="8" stroke-linecap="round" opacity=".85"><path d="M810 152v16m22-42v68m22-100v132m22-72v12m22-102v192m22-132v72m22-100v128m22-162v196m22-136v76m22-118v160m22-110v60m22-84v108m22-66v24m22-46v68m22-42v16"/></g>
+<text x="62" y="70" fill="#67e8f9" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">RESEARCH • ENGINEERING • MUSIC</text>
+<text x="60" y="144" fill="#ffffff" font-family="Arial,sans-serif" font-size="58" font-weight="700">Boyang Wang</text>
+<text x="63" y="196" fill="#ddd6fe" font-family="Arial,sans-serif" font-size="27">Music × Audio × AI</text>
+<rect x="62" y="230" width="420" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="63" y="273" fill="#b7bfd7" font-family="Arial,sans-serif" font-size="18">Foundation models · Understanding · Generation</text>
+</svg>
