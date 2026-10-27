@@ -13,11 +13,9 @@ My work spans model training, large-scale data pipelines, controllable generatio
 
 > **Music & audio understanding and generation**
 
-At **StepFun**, my work spans **music-understanding model development** and **data and inference infrastructure**.
+At **StepFun**, I am a core contributor to our music-understanding model, helping drive its training, experiments, validation, and evaluation.
 
-**Music-understanding models:** As a **core contributor**, I help drive **model training, experiments and validation, and evaluation**. My work includes multi-task training across audio, text, and symbolic music, full-parameter fine-tuning with **Megatron**, and comparative evaluation to guide model iteration.
-
-**Data and inference infrastructure:** In parallel, I worked on music data pipelines used by internal services and production music-generation and understanding products. This included annotation workflows across **10M+ tracks**, model serving with **StepCloud and vLLM**, and inference acceleration through **Ray, parallel processing, and CPU/GPU task coordination**.
+Alongside this work, I develop large-scale music data pipelines and optimize model deployment and inference, supporting internal services and production music-generation and understanding products.
 
 ## StepAudio 3 Music · Controllable Music Generation
 
