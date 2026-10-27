@@ -4,8 +4,8 @@ I'm an M.S. Data Science student at **UC San Diego**, graduating in December 202
 
 My work spans model training, large-scale data pipelines, controllable generation, and evaluation. Earlier, I studied contrastive representation learning for medical imaging at Lanzhou University.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/boyang-wang-199142268/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-7C3AED?style=for-the-badge)](mailto:wangby76@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-475569?style=for-the-badge)](https://www.linkedin.com/in/boyang-wang-199142268/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-475569?style=for-the-badge)](mailto:wangby76@gmail.com)
 
 ---
 
@@ -19,10 +19,11 @@ At **StepFun**, I worked on music data pipelines used by internal services and p
 
 *Controllable music generation*
 
-**My contribution:** Designed music Chain-of-Thought (CoT) data and **ABC notation-based conditioning** for controllable generation. Built supporting data pipelines and collaborated on experiments and validation, connecting symbolic musical structure with audio generation.
+**My contribution:** Co-designed music Chain-of-Thought (CoT) data and **ABC notation-based conditioning** for controllable generation. Built supporting data pipelines and collaborated on experiments and validation, connecting symbolic musical structure with audio generation.
 
-[![Explore & Listen](https://img.shields.io/badge/EXPLORE_%26_LISTEN-StepAudio_3_Music-F43F5E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
-[![Technical Report](https://img.shields.io/badge/READ-Technical_Report-8B5CF6?style=for-the-badge)](https://arxiv.org/abs/2609.16034)
+[![Project](https://img.shields.io/badge/Project-StepAudio_3_Music-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
+[![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.16034)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Demo-D97706?style=for-the-badge)](https://huggingface.co/spaces/stepfun-ai/StepAudio-3-Music)
 
 ## StepAudio 3 Gen
 
@@ -30,7 +31,8 @@ At **StepFun**, I worked on music data pipelines used by internal services and p
 
 A unified generation model spanning speech, vocals, sound effects, and music. **My contribution focused on music data pipelines** supporting the broader audio-generation effort.
 
-[![Technical Report](https://img.shields.io/badge/READ-StepAudio_3_Gen-6366F1?style=for-the-badge)](https://arxiv.org/abs/2609.12945)
+[![Project](https://img.shields.io/badge/Project-StepAudio_3_Gen-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-gen/)
+[![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.12945)
 
 ## HMU-Bench
 
@@ -38,7 +40,7 @@ A unified generation model spanning speech, vocals, sound effects, and music. **
 
 **Co-first author.** Co-developed a bilingual benchmark spanning symbolic notation and audio, with hierarchical tasks covering extraction, reasoning, and global/local analysis. Evaluation of seven omni models exposes gaps in audio understanding and differences between the two modalities. I also worked on linear-probe evaluation of audio-tokenizer representations.
 
-[![Paper](https://img.shields.io/badge/PAPER-HMU--Bench-06B6D4?style=for-the-badge)](https://arxiv.org/abs/2610.15773)
+[![Paper](https://img.shields.io/badge/Paper-Preprint-2563EB?style=for-the-badge)](https://arxiv.org/abs/2610.15773)
 
 ## Multimodal Music Understanding
 
@@ -56,25 +58,21 @@ I'm working on a model that connects **audio, text, and symbolic music** through
 
 At **UC San Diego**, advised by **Dr. Julian McAuley**, I study how LLM agents can use executable tools and reusable knowledge to answer compositional questions about music.
 
-## CSyMR
-
-*Compositional music retrieval & reasoning*
+## CSyMR · Compositional Music Retrieval & Reasoning
 
 **First author · SIGIR 2026.** Built a benchmark of **126 score-grounded questions** and a ReAct agent with **16 music21 analysis tools**. The tool-augmented agent reached **66.67% accuracy**, a **5.56 percentage-point** improvement over ReAct without music tools.
 
 The open-source Python system includes modular tool interfaces, JSON Schema argument validation, standardized error handling, configurable retries and timeouts, and reproducible benchmark runners.
 
-[![Code](https://img.shields.io/badge/CODE-CSyMR--Agent-10B981?style=for-the-badge)](https://github.com/Alicaso/CSyMR-Agent)
-[![Paper](https://img.shields.io/badge/PAPER-SIGIR_2026-0EA5E9?style=for-the-badge)](https://doi.org/10.1145/3805712.3809923)
-[![Dataset](https://img.shields.io/badge/DATA-CSyMR--Bench-F59E0B?style=for-the-badge)](https://huggingface.co/datasets/wangby76/CSyMR-Bench)
+[![Code](https://img.shields.io/badge/Code-GitHub-475569?style=for-the-badge)](https://github.com/Alicaso/CSyMR-Agent)
+[![Paper](https://img.shields.io/badge/Paper-SIGIR_2026-2563EB?style=for-the-badge)](https://doi.org/10.1145/3805712.3809923)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-Dataset-D97706?style=for-the-badge)](https://huggingface.co/datasets/wangby76/CSyMR-Bench)
 
-## SymSkill
-
-*Skill graphs for symbolic music understanding*
+## SymSkill · Skill Graphs for Symbolic Music Understanding
 
 **Second author · ISMIR 2026.** Co-developed a system that distills music curricula into a **skill graph of reusable analytical protocols**, enabling retrieval-guided reasoning. Evaluated on three benchmarks, with Qwen3.5-4B improvements of **4.76** and **3.27 percentage points** over the strongest baselines on CSyMR and MusicTheoryBench, respectively.
 
-[![Paper](https://img.shields.io/badge/PAPER-ISMIR_2026-A855F7?style=for-the-badge)](https://ismir2026program.ismir.net/poster_477.html#details)
+[![Paper](https://img.shields.io/badge/Paper-ISMIR_2026-2563EB?style=for-the-badge)](https://ismir2026program.ismir.net/poster_477.html#details)
 
 <br>
 
@@ -90,7 +88,15 @@ The open-source Python system includes modular tool interfaces, JSON Schema argu
 
 **Co-first author · Brain Imaging and Behavior, 2025.** During my undergraduate research at **Lanzhou University**, I helped develop a framework combining **quasi-conformal mapping** of 3D cortical meshes to 2D with **contrastive learning** for individual identification from brain morphology. My contributions included methodology, formal analysis, and manuscript preparation.
 
-[![Paper](https://img.shields.io/badge/PAPER-Brain_Imaging_%26_Behavior-14B8A6?style=for-the-badge)](https://link.springer.com/article/10.1007/s11682-025-00998-8)
+[![Paper](https://img.shields.io/badge/Paper-Brain_Imaging_%26_Behavior_2025-2563EB?style=for-the-badge)](https://link.springer.com/article/10.1007/s11682-025-00998-8)
+
+## HRINet · Perinatal Brain Age Prediction
+
+**Co-author · IEEE Journal of Biomedical and Health Informatics, 2024.** With **Leilei Zhao** and collaborators, contributed to research on attention-based modeling of hemispheric relationships for perinatal brain age prediction.
+
+*An Attention-Based Hemispheric Relation Inference Network for Perinatal Brain Age Prediction*
+
+[![Paper](https://img.shields.io/badge/Paper-IEEE_JBHI_2024-2563EB?style=for-the-badge)](https://doi.org/10.1109/JBHI.2024.3411620)
 
 <br>
 
