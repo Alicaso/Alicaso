@@ -15,24 +15,20 @@ My work spans model training, large-scale data pipelines, controllable generatio
 
 At **StepFun**, I worked on music data pipelines used by internal services and production music-generation and understanding products, alongside model fine-tuning and evaluation. This included annotation workflows across **10M+ tracks**, model serving with **StepCloud and vLLM**, and inference acceleration through **Ray, parallel processing, and CPU/GPU task coordination**.
 
-## StepAudio 3 Music
-
-*Controllable music generation*
+## StepAudio 3 Music · Controllable Music Generation
 
 **My contribution:** Co-designed music Chain-of-Thought (CoT) data and **ABC notation-based conditioning** for controllable generation. Built supporting data pipelines and collaborated on experiments and validation, connecting symbolic musical structure with audio generation.
 
-[![Project](https://img.shields.io/badge/Project-StepAudio_3_Music-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
 [![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.16034)
+[![Project](https://img.shields.io/badge/Project-StepAudio_3_Music-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Demo-D97706?style=for-the-badge)](https://huggingface.co/spaces/stepfun-ai/StepAudio-3-Music)
 
-## StepAudio 3 Gen
-
-*General audio generation*
+## StepAudio 3 Gen · General Audio Generation
 
 A unified generation model spanning speech, vocals, sound effects, and music. **My contribution focused on music data pipelines** supporting the broader audio-generation effort.
 
-[![Project](https://img.shields.io/badge/Project-StepAudio_3_Gen-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-gen/)
 [![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.12945)
+[![Project](https://img.shields.io/badge/Project-StepAudio_3_Gen-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-gen/)
 
 ## HMU-Bench · Hierarchical Music Understanding Benchmark
 
@@ -40,9 +36,7 @@ A unified generation model spanning speech, vocals, sound effects, and music. **
 
 [![Paper](https://img.shields.io/badge/Paper-Preprint-2563EB?style=for-the-badge)](https://arxiv.org/abs/2610.15773)
 
-## Multimodal Music Understanding
-
-**🚧 Coming soon**
+## Multimodal Music Understanding · Coming Soon
 
 I'm working on a model that connects **audio, text, and symbolic music** through multi-task training. The work brings together full-song transcription, fine-grained MIR annotation, and music-theory question answering, with full-parameter fine-tuning in **Megatron**. More details will follow with the public release.
 
@@ -62,8 +56,8 @@ At **UC San Diego**, advised by **Dr. Julian McAuley**, I study how LLM agents c
 
 The open-source Python system includes modular tool interfaces, JSON Schema argument validation, standardized error handling, configurable retries and timeouts, and reproducible benchmark runners.
 
-[![Code](https://img.shields.io/badge/Code-GitHub-475569?style=for-the-badge)](https://github.com/Alicaso/CSyMR-Agent)
 [![Paper](https://img.shields.io/badge/Paper-SIGIR_2026-2563EB?style=for-the-badge)](https://doi.org/10.1145/3805712.3809923)
+[![Code](https://img.shields.io/badge/Code-GitHub-475569?style=for-the-badge)](https://github.com/Alicaso/CSyMR-Agent)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-Dataset-D97706?style=for-the-badge)](https://huggingface.co/datasets/wangby76/CSyMR-Bench)
 
 ## SymSkill · Skill Graphs for Symbolic Music Understanding
@@ -80,19 +74,15 @@ The open-source Python system includes modular tool interfaces, JSON Schema argu
 
 > **Medical imaging & representation learning**
 
-## Perinatal Brain Morphology
-
-*Contrastive representation learning*
+## Perinatal Brain Morphology · Contrastive Representation Learning
 
 **Co-first author · Brain Imaging and Behavior, 2025.** During my undergraduate research at **Lanzhou University**, I helped develop a framework combining **quasi-conformal mapping** of 3D cortical meshes to 2D with **contrastive learning** for individual identification from brain morphology. My contributions included methodology, formal analysis, and manuscript preparation.
 
 [![Paper](https://img.shields.io/badge/Paper-Brain_Imaging_%26_Behavior_2025-2563EB?style=for-the-badge)](https://link.springer.com/article/10.1007/s11682-025-00998-8)
 
-## HRINet · Perinatal Brain Age Prediction
+## HRINet · Attention-Based Perinatal Brain Age Prediction
 
 **Co-author · IEEE Journal of Biomedical and Health Informatics, 2024.** Contributed to research on attention-based modeling of hemispheric relationships for perinatal brain age prediction.
-
-*An Attention-Based Hemispheric Relation Inference Network for Perinatal Brain Age Prediction*
 
 [![Paper](https://img.shields.io/badge/Paper-IEEE_JBHI_2024-2563EB?style=for-the-badge)](https://doi.org/10.1109/JBHI.2024.3411620)
 
