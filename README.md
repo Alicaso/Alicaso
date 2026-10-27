@@ -13,9 +13,9 @@ My work spans model training, large-scale data pipelines, controllable generatio
 
 > **Music & audio understanding and generation**
 
-At **StepFun**, I am a **core contributor to our music-understanding model**, working across training and fine-tuning, experiments, validation, and evaluation. I help shape the experimental direction and use comparative evaluation and error analysis to guide model iteration.
+At **StepFun**, I built and optimized music data pipelines used by internal services and production music-generation and understanding products. Across a **10M+ track** corpus, I combined audio models and **proprietary model APIs** for large-scale annotation, with **format repair and temporal alignment** to produce consistent, model-ready data. I also accelerated annotation-model inference and parallel processing with **vLLM and Ray**, coordinating CPU/GPU workloads to improve resource utilization.
 
-In parallel, I work on music data pipelines used by internal services and production music-generation and understanding products. This includes annotation workflows across **10M+ tracks**, model serving with **StepCloud and vLLM**, and inference acceleration through **Ray, parallel processing, and CPU/GPU task coordination**.
+Alongside this work, I am a **core contributor to a music-understanding model currently in development**, helping drive training and fine-tuning, experiments, validation, and evaluation. I help shape the experimental direction and use comparative evaluation and error analysis to guide model iteration.
 
 ## StepAudio 3 Music · Controllable Music Generation
 
