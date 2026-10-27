@@ -1,6 +1,6 @@
 <a href="https://stepaudiollm.github.io/step-audio-3-music/"><img src="assets/banner.svg" width="100%" alt="Boyang Wang — Music × Audio × AI. Foundation models, understanding and generation, and agentic reasoning." /></a>
 
-I'm an M.S. Data Science student at **UC San Diego**, graduating in December 2026. My research centers on **music and audio AI**, with two connected directions: **foundation models for understanding and generation**, and **agents that reason with tools and structured knowledge**.
+I'm an M.S. Data Science student at **UC San Diego**. I expect to graduate in December 2026. My research centers on **music and audio AI**, with two connected directions: **foundation models for understanding and generation**, and **agents that reason with tools and structured knowledge**.
 
 My work spans model training, large-scale data pipelines, controllable generation, and evaluation. Earlier, I studied contrastive representation learning for medical imaging at Lanzhou University.
 
@@ -13,13 +13,13 @@ My work spans model training, large-scale data pipelines, controllable generatio
 
 > **Music & audio understanding and generation**
 
-At **StepFun**, I built and optimized music data pipelines used by internal services and production music-generation and understanding products. Across a **10M+ track** corpus, I combined audio models and **proprietary model APIs** for large-scale annotation, with **format repair and temporal alignment** to produce consistent, model-ready data. I also accelerated annotation-model inference and parallel processing with **vLLM and Ray**, coordinating CPU/GPU workloads to improve resource utilization.
+At **StepFun**, I built and optimized music data pipelines used by internal services and production music-generation and understanding products. Across a **10M+ track** corpus, I integrated **MIR models and tools** with **proprietary model APIs** for large-scale annotation, with **format repair and temporal alignment** to produce consistent, model-ready data. I also optimized annotation-model inference and parallel processing with **vLLM and Ray**, which helped improve CPU/GPU workload coordination and resource utilization.
 
-Alongside this work, I am a **core contributor to a music-understanding model currently in development**, helping drive training and fine-tuning, experiments, validation, and evaluation. I help shape the experimental direction and use comparative evaluation and error analysis to guide model iteration.
+Alongside this work, I am a **core contributor to a music-understanding model currently in development** and help drive its training and fine-tuning, experiments, validation, and evaluation. I help shape the experimental direction and use comparative evaluation and error analysis to guide model iteration.
 
 ## StepAudio 3 Music · Controllable Music Generation
 
-**My contribution:** Co-designed music Chain-of-Thought (CoT) data and **ABC notation-based conditioning** for controllable generation. Built supporting data pipelines and collaborated on experiments and validation, connecting symbolic musical structure with audio generation.
+**My contribution:** Co-designed music Chain-of-Thought (CoT) data and **ABC notation-based conditioning** for controllable generation. Built the corresponding data pipelines and collaborated on experiments and validation.
 
 [![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.16034)
 [![Project](https://img.shields.io/badge/Project-StepAudio_3_Music-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-music/)
@@ -27,14 +27,14 @@ Alongside this work, I am a **core contributor to a music-understanding model cu
 
 ## StepAudio 3 Gen · General Audio Generation
 
-A unified generation model spanning speech, vocals, sound effects, and music. **My contribution focused on music data pipelines** supporting the broader audio-generation effort.
+A unified generation model that supports speech, vocals, sound effects, and music. **My contribution focused on music data pipelines** that supported the broader audio-generation effort.
 
 [![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.12945)
 [![Project](https://img.shields.io/badge/Project-StepAudio_3_Gen-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-gen/)
 
 ## HMU-Bench · Hierarchical Music Understanding Benchmark
 
-**Co-first author.** Co-developed a bilingual benchmark spanning symbolic notation and audio, with hierarchical tasks covering extraction, reasoning, and global/local analysis. Evaluation of seven omni models exposes gaps in audio understanding and differences between the two modalities. I also worked on linear-probe evaluation of audio-tokenizer representations.
+**Co-first author.** Co-developed a bilingual benchmark for symbolic notation and audio. Its hierarchical tasks cover extraction, reasoning, and global/local analysis. Evaluation of seven omni models exposes gaps in audio understanding and differences between the two modalities. I also worked on linear-probe evaluation of audio-tokenizer representations.
 
 [![Paper](https://img.shields.io/badge/Paper-Preprint-2563EB?style=for-the-badge)](https://arxiv.org/abs/2610.15773)
 
@@ -64,7 +64,7 @@ The open-source Python system includes modular tool interfaces, JSON Schema argu
 
 ## SymSkill · Skill Graphs for Symbolic Music Understanding
 
-**Second author · ISMIR 2026.** Co-developed a system that distills music curricula into a **skill graph of reusable analytical protocols**, enabling retrieval-guided reasoning. Evaluated on three benchmarks, with Qwen3.5-4B improvements of **4.76** and **3.27 percentage points** over the strongest baselines on CSyMR and MusicTheoryBench, respectively.
+**Second author · ISMIR 2026.** Co-developed a system that distills music curricula into a **skill graph of reusable analytical protocols** that support retrieval-guided reasoning. Evaluated on three benchmarks, with Qwen3.5-4B improvements of **4.76** and **3.27 percentage points** over the strongest baselines on CSyMR and MusicTheoryBench, respectively.
 
 [![Paper](https://img.shields.io/badge/Paper-ISMIR_2026-2563EB?style=for-the-badge)](https://ismir2026program.ismir.net/poster_477.html#details)
 
@@ -78,7 +78,7 @@ The open-source Python system includes modular tool interfaces, JSON Schema argu
 
 ## Perinatal Brain Morphology · Contrastive Representation Learning
 
-**Co-first author · Brain Imaging and Behavior, 2025.** During my undergraduate research at **Lanzhou University**, I helped develop a framework combining **quasi-conformal mapping** of 3D cortical meshes to 2D with **contrastive learning** for individual identification from brain morphology. My contributions included methodology, formal analysis, and manuscript preparation.
+**Co-first author · Brain Imaging and Behavior, 2025.** During my undergraduate research at **Lanzhou University**, I helped develop a framework that combines **quasi-conformal mapping** of 3D cortical meshes to 2D with **contrastive learning** for individual identification from brain morphology. My contributions included methodology, formal analysis, and manuscript preparation.
 
 [![Paper](https://img.shields.io/badge/Paper-Brain_Imaging_%26_Behavior_2025-2563EB?style=for-the-badge)](https://link.springer.com/article/10.1007/s11682-025-00998-8)
 
