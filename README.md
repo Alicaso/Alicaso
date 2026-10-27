@@ -90,7 +90,7 @@ The open-source Python system includes modular tool interfaces, JSON Schema argu
 
 ## HRINet · Perinatal Brain Age Prediction
 
-**Co-author · IEEE Journal of Biomedical and Health Informatics, 2024.** With **Leilei Zhao** and collaborators, contributed to research on attention-based modeling of hemispheric relationships for perinatal brain age prediction.
+**Co-author · IEEE Journal of Biomedical and Health Informatics, 2024.** Contributed to research on attention-based modeling of hemispheric relationships for perinatal brain age prediction.
 
 *An Attention-Based Hemispheric Relation Inference Network for Perinatal Brain Age Prediction*
 
