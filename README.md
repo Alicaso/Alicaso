@@ -34,9 +34,7 @@ A unified generation model spanning speech, vocals, sound effects, and music. **
 [![Project](https://img.shields.io/badge/Project-StepAudio_3_Gen-0F766E?style=for-the-badge)](https://stepaudiollm.github.io/step-audio-3-gen/)
 [![Paper](https://img.shields.io/badge/Paper-TR-2563EB?style=for-the-badge)](https://arxiv.org/abs/2609.12945)
 
-## HMU-Bench
-
-*Hierarchical music understanding*
+## HMU-Bench · Hierarchical Music Understanding Benchmark
 
 **Co-first author.** Co-developed a bilingual benchmark spanning symbolic notation and audio, with hierarchical tasks covering extraction, reasoning, and global/local analysis. Evaluation of seven omni models exposes gaps in audio understanding and differences between the two modalities. I also worked on linear-probe evaluation of audio-tokenizer representations.
 
