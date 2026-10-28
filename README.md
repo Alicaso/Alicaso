@@ -1,4 +1,4 @@
-<a href="https://stepaudiollm.github.io/step-audio-3-music/"><img src="assets/banner.svg" width="100%" alt="Boyang Wang — Music × Audio × AI. Foundation models, understanding and generation, and agentic reasoning." /></a>
+<img src="assets/banner.svg" width="100%" alt="Boyang Wang — Music × Audio × AI. Foundation models, understanding and generation, and agentic reasoning." />
 
 I'm an M.S. Data Science student at **UC San Diego**. I expect to graduate in December 2026. My research centers on **music and audio AI**, with two connected directions: **foundation models for understanding and generation**, and **agents that reason with tools and structured knowledge**.
 
